@@ -1,0 +1,11 @@
+/*
+This file defines the colors I will use.
+*/
+
+:root {
+  --body-background-color: #d5cfe1;
+  --body-text-color: #1d1d1d;
+  --accent-color: #3da639;
+  --footer-text-color: #ffffff;
+  --footer-background-color: #1d1d1d;
+}
